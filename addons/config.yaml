@@ -2,7 +2,7 @@ name: V1T0 add-ons
 version: "0.1.0"
 slug: V1T0
 description: V1T0 add-ons
-url: "https://github.com/vittoriofoschi/addons-ha/tree/main/addons"
+url: "https://github.com/vfoschi/addons-ha/tree/main/addons"
 arch:
   - arm64
 init: false
